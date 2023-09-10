@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Mani Ravirala</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mani-Ravirala&label=Profile%20views&color=0e75b6&style=flat" alt="Mani-Ravirala" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Chrome Extensions to copy Questions<br><br>🌱 I’m currently learning MERN<br><br>👨‍💻 All of my projects are available at https://github.com/Mani-Ravirala<br><br>💬 Ask me about python<br><br>📫 How to reach me raviralamani5@gmail.com
 
